@@ -1,16 +1,29 @@
-# check_in
+# 🧠 Habit Tracker App
 
-A new Flutter project.
+A simple and intuitive habit tracking app designed to help users build positive habits, stay consistent, and achieve their personal and productivity goals. Track your progress, visualize your growth, and stay motivated with daily check-ins.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add, edit, and delete habits
+- 📅 Daily habit check-ins
+- 📊 Track progress with streaks and stats
+- 🎯 Set habit goals and get reminders
+- ☁️ Firebase integration for real-time data storage
+- 🌙 Light/Dark mode support *(optional)*
+- 📈 Clean and responsive UI built with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK installed
+- Firebase project setup
+- Android Studio / VS Code / Xcode (optional for iOS)
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/habit-tracker.git
+cd habit-tracker
+flutter pub get
+flutter run
